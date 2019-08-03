@@ -1,5 +1,5 @@
-# :pencil2: Leetcode Solutions with Cpp,Python,Java,Javascript
-Update time:  2019-08-04 00:20:52
+# :pencil2: Leetcode Solutions with Cpp,Python,Python3,Java,Javascript
+Update time:  2019-08-04 00:23:35
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
@@ -16,7 +16,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
-|1|[two-sum](https://leetcode.com/problems/two-sum)|[Cpp](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0001-two-sum/two-sum.cpp)|[:memo:](https://leetcode.com/articles/two-sum/)|Easy|
+|1|[two-sum](https://leetcode.com/problems/two-sum)|[Cpp](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0001-two-sum/two-sum.cpp) [Python3](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0001-two-sum/two-sum.py)|[:memo:](https://leetcode.com/articles/two-sum/)|Easy|
 |2|[add-two-numbers](https://leetcode.com/problems/add-two-numbers)|[Cpp](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0002-add-two-numbers/add-two-numbers.cpp)|[:memo:](https://leetcode.com/articles/add-two-numbers/)|Medium|
 |3|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)||[:memo:](https://leetcode.com/articles/longest-substring-without-repeating-characters/)|Medium|
 |4|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)||[:memo:](https://leetcode.com/articles/median-of-two-sorted-arrays/)|Hard|

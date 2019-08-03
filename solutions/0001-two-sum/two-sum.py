@@ -1,6 +1,3 @@
-# -*- coding:utf-8 -*-
-
-
 # Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 #
 # You may assume that each input would have exactly one solution, and you may not use the same element twice.
@@ -16,16 +13,12 @@
 #
 
 
-class Solution(object):
-    def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
         d = {}
-        for i, v in enumerate(nums):
-            if v in d:
-                return [d[v],i]
-            d[target-v] = i
-
+        for index, item in enumerate(nums):
+            # if d.get(target - item, None) or d.get(target - item, None) == 0:
+            if (target - item) in d:
+                return [d.get(target - item), index]
+            else:
+                d[item] = index
