@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp,Python,Python3,Java,Javascript
-Update time:  2019-08-04 00:39:15
+Update time:  2019-08-04 22:01:17
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **4   /   1068** problems
+I have solved **5   /   1072** problems
 while there are **169** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -18,7 +18,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |:---:|:---:|:---:|:---:|:---:|
 |1|[two-sum](https://leetcode.com/problems/two-sum)|[Cpp](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0001-two-sum/two-sum.cpp) [Python3](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0001-two-sum/two-sum.py)|[:memo:](https://leetcode.com/articles/two-sum/)|Easy|
 |2|[add-two-numbers](https://leetcode.com/problems/add-two-numbers)|[Cpp](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0002-add-two-numbers/add-two-numbers.cpp)|[:memo:](https://leetcode.com/articles/add-two-numbers/)|Medium|
-|3|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)||[:memo:](https://leetcode.com/articles/longest-substring-without-repeating-characters/)|Medium|
+|3|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Cpp](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0003-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp)|[:memo:](https://leetcode.com/articles/longest-substring-without-repeating-characters/)|Medium|
 |4|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)||[:memo:](https://leetcode.com/articles/median-of-two-sorted-arrays/)|Hard|
 |5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring)||[:memo:](https://leetcode.com/articles/longest-palindromic-substring/)|Medium|
 |6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)||[:memo:](https://leetcode.com/articles/zigzag-conversion/)|Medium|
@@ -329,7 +329,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |328|[odd-even-linked-list](https://leetcode.com/problems/odd-even-linked-list)||[:memo:](https://leetcode.com/articles/odd-even-linked-list/)|Medium|
 |329|[longest-increasing-path-in-a-matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)||[:memo:](https://leetcode.com/articles/longest-increasing-path-matrix/)|Hard|
 |330|[patching-array](https://leetcode.com/problems/patching-array)||[:memo:](https://leetcode.com/articles/patching-array/)|Hard|
-|331|[verify-preorder-serialization-of-a-binary-tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree)|||Medium|
+|331|[verify-preorder-serialization-of-a-binary-tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree)||[:memo:](https://leetcode.com/articles/verify-preorder-serialization-of-a-binary-tree/)|Medium|
 |332|[reconstruct-itinerary](https://leetcode.com/problems/reconstruct-itinerary)|||Medium|
 |333|[largest-bst-subtree](https://leetcode.com/problems/largest-bst-subtree)|:lock:||Medium|
 |334|[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence)|||Medium|
@@ -1083,4 +1083,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1238|[alphabet-board-path](https://leetcode.com/problems/alphabet-board-path)|||Medium|
 |1239|[largest-1-bordered-square](https://leetcode.com/problems/largest-1-bordered-square)|||Medium|
 |1240|[stone-game-ii](https://leetcode.com/problems/stone-game-ii)|||Medium|
+|1247|[decrease-elements-to-make-array-zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag)|||Medium|
+|1248|[binary-tree-coloring-game](https://leetcode.com/problems/binary-tree-coloring-game)|||Medium|
+|1249|[snapshot-array](https://leetcode.com/problems/snapshot-array)|||Medium|
 |1250|[longest-common-subsequence](https://leetcode.com/problems/longest-common-subsequence)|||Medium|
+|1251|[longest-chunked-palindrome-decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition)|||Hard|
