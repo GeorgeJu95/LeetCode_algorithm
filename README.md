@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp,Python,Python3,Java,Javascript
-Update time:  2019-08-04 22:01:17
+Update time:  2019-08-10 00:16:04
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **5   /   1072** problems
+I have solved **15   /   1072** problems
 while there are **169** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -19,18 +19,18 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1|[two-sum](https://leetcode.com/problems/two-sum)|[Cpp](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0001-two-sum/two-sum.cpp) [Python3](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0001-two-sum/two-sum.py)|[:memo:](https://leetcode.com/articles/two-sum/)|Easy|
 |2|[add-two-numbers](https://leetcode.com/problems/add-two-numbers)|[Cpp](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0002-add-two-numbers/add-two-numbers.cpp)|[:memo:](https://leetcode.com/articles/add-two-numbers/)|Medium|
 |3|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Cpp](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0003-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp)|[:memo:](https://leetcode.com/articles/longest-substring-without-repeating-characters/)|Medium|
-|4|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)||[:memo:](https://leetcode.com/articles/median-of-two-sorted-arrays/)|Hard|
-|5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring)||[:memo:](https://leetcode.com/articles/longest-palindromic-substring/)|Medium|
+|4|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[Cpp](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0004-median-of-two-sorted-arrays/median-of-two-sorted-arrays.cpp) [Python3](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0004-median-of-two-sorted-arrays/median-of-two-sorted-arrays.py)|[:memo:](https://leetcode.com/articles/median-of-two-sorted-arrays/)|Hard|
+|5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring)|[Cpp](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0005-longest-palindromic-substring/longest-palindromic-substring.cpp)|[:memo:](https://leetcode.com/articles/longest-palindromic-substring/)|Medium|
 |6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)||[:memo:](https://leetcode.com/articles/zigzag-conversion/)|Medium|
-|7|[reverse-integer](https://leetcode.com/problems/reverse-integer)||[:memo:](https://leetcode.com/articles/reverse-integer/)|Easy|
-|8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|||Medium|
-|9|[palindrome-number](https://leetcode.com/problems/palindrome-number)||[:memo:](https://leetcode.com/articles/palindrome-number/)|Easy|
+|7|[reverse-integer](https://leetcode.com/problems/reverse-integer)|[Cpp](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0007-reverse-integer/reverse-integer.cpp)|[:memo:](https://leetcode.com/articles/reverse-integer/)|Easy|
+|8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|[Cpp](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0008-string-to-integer-atoi/string-to-integer-atoi.cpp) [Python3](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0008-string-to-integer-atoi/string-to-integer-atoi.py) [Java](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0008-string-to-integer-atoi/string-to-integer-atoi.java)||Medium|
+|9|[palindrome-number](https://leetcode.com/problems/palindrome-number)|[Cpp](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0009-palindrome-number/palindrome-number.cpp) [Java](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0009-palindrome-number/palindrome-number.java)|[:memo:](https://leetcode.com/articles/palindrome-number/)|Easy|
 |10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)||[:memo:](https://leetcode.com/articles/regular-expression-matching/)|Hard|
-|11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)||[:memo:](https://leetcode.com/articles/container-with-most-water/)|Medium|
-|12|[integer-to-roman](https://leetcode.com/problems/integer-to-roman)|||Medium|
-|13|[roman-to-integer](https://leetcode.com/problems/roman-to-integer)|||Easy|
-|14|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix)||[:memo:](https://leetcode.com/articles/longest-common-prefix/)|Easy|
-|15|[3sum](https://leetcode.com/problems/3sum)|||Medium|
+|11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)|[Cpp](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0011-container-with-most-water/container-with-most-water.cpp)|[:memo:](https://leetcode.com/articles/container-with-most-water/)|Medium|
+|12|[integer-to-roman](https://leetcode.com/problems/integer-to-roman)|[Cpp](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0012-integer-to-roman/integer-to-roman.cpp)||Medium|
+|13|[roman-to-integer](https://leetcode.com/problems/roman-to-integer)|[Cpp](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0013-roman-to-integer/roman-to-integer.cpp)||Easy|
+|14|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix)|[Cpp](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0014-longest-common-prefix/longest-common-prefix.cpp)|[:memo:](https://leetcode.com/articles/longest-common-prefix/)|Easy|
+|15|[3sum](https://leetcode.com/problems/3sum)|[Cpp](https://github.com/GeorgeJu95/LeetCode_algorithm/blob/master/solutions/0015-3sum/3sum.cpp)||Medium|
 |16|[3sum-closest](https://leetcode.com/problems/3sum-closest)|||Medium|
 |17|[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)||[:memo:](https://leetcode.com/articles/letter-combinations-of-a-phone-number/)|Medium|
 |18|[4sum](https://leetcode.com/problems/4sum)|||Medium|
@@ -390,7 +390,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |389|[find-the-difference](https://leetcode.com/problems/find-the-difference)|||Easy|
 |390|[elimination-game](https://leetcode.com/problems/elimination-game)|||Medium|
 |391|[perfect-rectangle](https://leetcode.com/problems/perfect-rectangle)|||Hard|
-|392|[is-subsequence](https://leetcode.com/problems/is-subsequence)|||Medium|
+|392|[is-subsequence](https://leetcode.com/problems/is-subsequence)|||Easy|
 |393|[utf-8-validation](https://leetcode.com/problems/utf-8-validation)||[:memo:](https://leetcode.com/articles/utf-8-validation/)|Medium|
 |394|[decode-string](https://leetcode.com/problems/decode-string)|||Medium|
 |395|[longest-substring-with-at-least-k-repeating-characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters)|||Medium|
@@ -398,7 +398,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |397|[integer-replacement](https://leetcode.com/problems/integer-replacement)|||Medium|
 |398|[random-pick-index](https://leetcode.com/problems/random-pick-index)|||Medium|
 |399|[evaluate-division](https://leetcode.com/problems/evaluate-division)|||Medium|
-|400|[nth-digit](https://leetcode.com/problems/nth-digit)|||Easy|
+|400|[nth-digit](https://leetcode.com/problems/nth-digit)|||Medium|
 |401|[binary-watch](https://leetcode.com/problems/binary-watch)|||Easy|
 |402|[remove-k-digits](https://leetcode.com/problems/remove-k-digits)|||Medium|
 |403|[frog-jump](https://leetcode.com/problems/frog-jump)||[:memo:](https://leetcode.com/articles/frog-jump/)|Hard|
@@ -580,7 +580,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |629|[k-inverse-pairs-array](https://leetcode.com/problems/k-inverse-pairs-array)||[:memo:](https://leetcode.com/articles/k-inverse-pairs-array/)|Hard|
 |630|[course-schedule-iii](https://leetcode.com/problems/course-schedule-iii)||[:memo:](https://leetcode.com/articles/course-schedule-iii/)|Hard|
 |631|[design-excel-sum-formula](https://leetcode.com/problems/design-excel-sum-formula)|:lock:|[:memo:](https://leetcode.com/articles/design-excel-sum-formula/)|Hard|
-|632|[smallest-range](https://leetcode.com/problems/smallest-range)||[:memo:](https://leetcode.com/articles/smallest-range/)|Hard|
+|632|[smallest-range-covering-elements-from-k-lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists)||[:memo:](https://leetcode.com/articles/smallest-range/)|Hard|
 |633|[sum-of-square-numbers](https://leetcode.com/problems/sum-of-square-numbers)||[:memo:](https://leetcode.com/articles/sum-of-square-numbers/)|Easy|
 |634|[find-the-derangement-of-an-array](https://leetcode.com/problems/find-the-derangement-of-an-array)|:lock:|[:memo:](https://leetcode.com/articles/find-derangements/)|Medium|
 |635|[design-log-storage-system](https://leetcode.com/problems/design-log-storage-system)|:lock:|[:memo:](https://leetcode.com/articles/design-log-storage/)|Medium|
